@@ -84,7 +84,7 @@ const Section4: React.FC = () => {
         >
           <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-gray-300 bg-white">
             <img
-              src="/imagenes/graficatasahomicidio.png"
+              src="imagenes/graficatasahomicidio.png"
               alt="Tasa de homicidios en Colombia, 1946–1960"
               className="w-full max-h-[500px] object-contain p-4"
             />
@@ -105,7 +105,7 @@ const Section4: React.FC = () => {
         >
           <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-gray-300 bg-white">
             <img
-              src="/imagenes/homicidiosporregion.png"
+              src="imagenes/homicidiosporregion.png"
               alt="Distribución regional de homicidios 1946–1963"
               className="w-full max-h-[550px] object-contain p-4"
             />

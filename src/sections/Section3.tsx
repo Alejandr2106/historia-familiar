@@ -66,7 +66,7 @@ const Section3: React.FC = () => {
         >
           <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-amber-200 bg-white">
             <img
-              src="/imagenes/Googlemaps.png"
+              src="imagenes/Googlemaps.png"
               alt="Mapa de Monguí, Boyacá"
               className="w-full max-h-[500px] object-cover"
             />

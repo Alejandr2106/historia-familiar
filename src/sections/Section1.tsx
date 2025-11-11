@@ -9,7 +9,7 @@ const Section1: React.FC = () => {
       =========================== */}
       <div className="relative h-[90vh] flex flex-col items-center justify-center text-center overflow-hidden">
         <img
-          src="/imagenes/IMG_4784.jpg"
+          src="imagenes/IMG_4784.jpg"
           alt="Escuela de monjas situada en el parque principal de Monguí"
           className="absolute inset-0 w-full h-full object-cover object-center"
         />
@@ -29,7 +29,7 @@ const Section1: React.FC = () => {
           className="absolute bottom-10 left-10 z-20"
         >
           <img
-            src="/imagenes/monguibyn.jpg"
+            src="imagenes/monguibyn.jpg"
             alt="Fachada de la Basílica menor de nuestra señora de Monguí"
             className="w-64 md:w-80 lg:w-[26rem] rounded-3xl shadow-2xl border-4 border-white/70 hover:scale-105 transition-transform duration-700"
           />

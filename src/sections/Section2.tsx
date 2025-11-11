@@ -76,7 +76,7 @@ const Section2: React.FC = () => {
             className="relative rounded-2xl overflow-hidden shadow-lg border border-gray-200"
           >
             <img
-              src="/imagenes/Gaitan.png"
+              src="imagenes/Gaitan.png"
               alt="Gaitán en plaza pública"
               className="w-full h-72 object-cover"
             />
@@ -91,7 +91,7 @@ const Section2: React.FC = () => {
             className="relative rounded-2xl overflow-hidden shadow-lg border border-gray-200"
           >
             <img
-              src="/imagenes/LaureanoG.png"
+              src="imagenes/LaureanoG.png"
               alt="Laureano Gómez en los años 50"
               className="w-full h-72 object-cover"
             />
@@ -111,7 +111,7 @@ const Section2: React.FC = () => {
         >
           <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-gray-300 bg-white">
             <img
-              src="/imagenes/graficoatlasDANE.png"
+              src="imagenes/graficoatlasDANE.png"
               alt="Gráfico de urbanización DANE"
               className="w-full max-h-[600px] object-contain p-4"
             />

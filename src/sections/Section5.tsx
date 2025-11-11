@@ -106,7 +106,7 @@ const Section5: React.FC = () => {
         >
           <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-gray-300 bg-white/95 backdrop-blur-sm">
             <img
-              src="/imagenes/crecimientopobbogota.png"
+              src="imagenes/crecimientopobbogota.png"
               alt="Crecimiento poblacional de Bogotá"
               className="w-full max-h-[550px] object-contain p-4"
             />

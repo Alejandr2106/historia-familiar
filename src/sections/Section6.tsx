@@ -10,7 +10,7 @@ const Section6: React.FC = () => {
       {/* ======= FONDO CON IMAGEN ======= */}
       <div className="absolute inset-0">
         <img
-          src="/imagenes/paramooceta.png"
+          src="imagenes/paramooceta.png"
           alt="Páramo de Ocetá, Monguí"
           className="w-full h-full object-cover opacity-70"
         />
@@ -67,7 +67,7 @@ const Section6: React.FC = () => {
         >
           <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-gray-300 bg-white/90 backdrop-blur-sm">
             <img
-              src="/imagenes/paramooceta.png"
+              src="imagenes/paramooceta.png"
               alt="Páramo de Ocetá, Monguí"
               className="w-full max-h-[550px] object-cover"
             />
