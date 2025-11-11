@@ -1,4 +1,3 @@
-import React from "react";
 import TopBar from "./components/TopBar";
 import Section1 from "./sections/Section1";
 import Section2 from "./sections/Section2";
